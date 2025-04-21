@@ -85,7 +85,7 @@
     "cssOptimize": true,
     "site_lang": "fr",
     "pwa-switcher": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
