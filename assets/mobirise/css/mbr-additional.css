@@ -1398,7 +1398,7 @@ a {
 }
 .cid-uIJ9XEeyot .mbr-text,
 .cid-uIJ9XEeyot .item .mbr-section-btn {
-  text-align: left;
+  text-align: center;
 }
 .cid-uIJ9XEeyot .content-head {
   max-width: 800px;
@@ -1608,6 +1608,10 @@ a {
   -webkit-touch-callout: none;
   -khtml-user-select: none;
   -webkit-tap-highlight-color: transparent;
+}
+.cid-uJcmAROgAi .mbr-role,
+.cid-uJcmAROgAi .social-row {
+  color: #e03418;
 }
 .cid-uIJpLTfzI2 {
   padding-top: 5rem;
